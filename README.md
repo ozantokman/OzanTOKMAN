@@ -7,7 +7,7 @@
 <!-- <a href="https://twitter.com/ThELeGenD_Says">
   <img align="left" alt="Arslan's | Twitter" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/733/733579.svg" /> -->
 </a>
-<a href="https://www.linkedin.com/in/arslanameer/">
+<a href="https://tr.linkedin.com/in/ozan-tokman">
   <img align="left" alt="Arslan's LinkdeIN" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />
 </a>
 <!-- <a href="https://www.instagram.com/lk2712/">
