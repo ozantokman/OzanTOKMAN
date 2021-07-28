@@ -21,7 +21,9 @@
 
 <br />
 
-Hi, I'm [Ozan](www.ozantokman.com), a Full Stack Developer 🚀 from World, currently, Freelancer @ <img src="https://cdn.worldvectorlogo.com/logos/fiverr-1.svg" alt="arslanameer fiverr" width="16" height="16" /> <img src="https://cdn.worldvectorlogo.com/logos/upwork-1.svg" alt="arslanameer fiverr" width="16" height="16" /> and an Open Source contributer. Beside's programming, I enjoy eating food and traveling.
+Hi, I'm [Ozan](www.ozantokman.com), a Full Stack Developer 🚀 from World, currently, Freelancer @ <a href="https://ozantokman.com">
+<!-- <img src="https://cdn.worldvectorlogo.com/logos/fiverr-1.svg" alt="arslanameer fiverr" width="16" height="16" /> <img src="https://cdn.worldvectorlogo.com/logos/upwork-1.svg" alt="arslanameer fiverr" width="16" height="16" />  -->
+and an Open Source contributer. Beside's programming, I enjoy eating food and traveling.
 
   <img align="right" alt="GIF" src="https://github.com/ArslanAmeer/ArslanAmeer/blob/master/assets/arslan-coding.gif" width="500" height="320" />
 
@@ -30,8 +32,8 @@ Hi, I'm [Ozan](www.ozantokman.com), a Full Stack Developer 🚀 from World, curr
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning Microservices using nodejs & AWS; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [contact@arslanameer.com](contact@arslanameer.com);
-- 📝 My [Portfolio](https://www.arslanameer.com/)
+- 📫 How to reach me: [ozantokman@gmail.com](ozantokman@gmail.com);
+- 📝 My [Portfolio](https://www.ozantokman.com/)
 
 **Languages and Tools:**  
 
@@ -77,12 +79,9 @@ Hi, I'm [Ozan](www.ozantokman.com), a Full Stack Developer 🚀 from World, curr
 </p>
 
 <br />
-<!--
-#### <img align="left" alt="Arslan's Spotify" width="75px" src="https://cdn.worldvectorlogo.com/logos/spotify-logo-with-text-1.svg"/> Now Playing 🎧 
 
-[![Spotify](https://spotify-play.arslanameer.vercel.app/api/spotify)](https://open.spotify.com/user/mqjqw4pv2745llonloqsqlijc?si=wlRAdEdEQ5aPabN4e_KJXQ)
 
- -->
+
 <hr/>
 
 <!--START_SECTION:waka-->
@@ -151,10 +150,10 @@ C#                       5 repos             █░░░░░░░░░░�
 <!-- 🚧 **My Todoist Stats:** -->
 <!-- TODO-IST:START -->
 <!-- TODO-IST:END -->
-  <summary>:zap: 📈 My GitHub Stats</summary>
+  <!-- <summary>:zap: 📈 My GitHub Stats</summary>
   <br>
   <p align="left"> 
-    <img src="https://github-readme-stats.arslanameer.vercel.app//api?username=ArslanAmeer&count_private=true&show_icons=true&theme=dark&hide_border=true&hide=contribs" alt="ArslanAmeer Github Stats" />
-    </p>
+    <img src="https://github-readme-stats.arslanameer.vercel.app//api?username=ArslanAmeer&count_private=true&show_icons=true&theme=dark&hide_border=true&hide=contribs" alt="OzanTOKMAN Github Stats" />
+    </p> -->
 
 <hr/>
